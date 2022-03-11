@@ -11,5 +11,7 @@ class FightClubColors {
   static const Color darkGreyText = Color.fromRGBO(22, 22, 22, 1);
   static const Color whiteText = Color.fromRGBO(255, 255, 255, 0.87);
   static const Color purpleColor = Color.fromRGBO(197, 209, 234, 1);
-
+  static const Color whiteColor = Color.fromRGBO(255, 255, 255, 1);
+  static const Color greenColor = Color.fromRGBO(3, 136, 0, 1);
+  static const Color redColor = Color.fromRGBO(234, 44, 44, 1);
 }
